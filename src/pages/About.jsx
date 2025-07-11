@@ -5,7 +5,7 @@ import about_blockchain from "../assets/about_blockchain.png";
 const About = () => {
   return (
     <section className="bg-gradient-to-br from-gray-200 via-gray-300 to-gray-100 min-h-screen px-2 py-4 sm:px-6 pt-8 md:p-10 flex flex-col items-center border-b-2 border-white">
-      <h1 className="text-green-700 text-3xl sm:text-4xl md:text-5xl font-bold pt-18 md:pt-10 sm:mt-4 mb-6 sm:mb-12 text-center leading-tight">
+      <h1 className="text-green-700 text-3xl sm:text-4xl md:text-5xl font-bold pt-15 md:pt-10 sm:mt-4 mb-6 sm:mb-12 text-center leading-tight">
         Our Mission, Your Future
       </h1>
 
