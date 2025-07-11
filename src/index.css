@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+*{
+    box-sizing: border-box;
+}
+
+.active-link {
+  color: #16a34a; 
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 1.25rem; 
+}
